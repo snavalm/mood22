@@ -62,7 +62,7 @@ python train_model.py -e experiments.mood_abdom_test
 
 #### Visualize anomaly generation process
 
-Visualize the abdominal generation process using [jupyter notebook][visualize_anomalies.ipynb]
+Visualize the abdominal generation process using [visualize_anomalies.ipynb](visualize_anomalies.ipynb) notebook.
 
 
 ## Team
