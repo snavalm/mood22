@@ -1,6 +1,8 @@
 
 ## Improving synthetic anomaly based out-of-distribution with harder anomalies
 
+Official implementation from CitAI team, winner of MICCAI 2022 Medical Out-of Distribution Challenge (MOOD22).
+
 ## Citing 
 
 If you use this implementation, please cite (paper coming soon):
