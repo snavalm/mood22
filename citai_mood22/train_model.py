@@ -14,7 +14,7 @@ from torch.utils.data import DataLoader
 ### Using torch.utils.data.DataLoader instead of monai because monai is giving me a memory error in some environments
 
 from utils import default,  configure_logging, add_common_args
-import preprocessing
+import citai_mood22.preprocessing as preprocessing
 
 import pandas as pd
 
