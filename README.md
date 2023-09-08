@@ -5,14 +5,12 @@ Official implementation from CitAI team, winner of MICCAI 2022 Medical Out-of Di
 
 ## Citing 
 
-If you use this implementation, please cite (paper coming soon):
+If you use this implementation, please cite our [paper](https://arxiv.org/abs/2308.01412):
 ```
-@article{marimontMOOD2022,
-  title={Improving synthetic anomaly based out-of-distribution with harder anomalies},
-  author={Naval Marimont, Sergio and Tarroni, Giacomo},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/snavalm/mood22},
+@article{marimont2023harder,
+  title={Harder synthetic anomalies to improve OoD detection in Medical Images},
+  author={Marimont, Sergio Naval and Tarroni, Giacomo},
+  journal={arXiv preprint arXiv:2308.01412},
   year={2023}
 }
 ```
